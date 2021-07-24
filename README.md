@@ -74,9 +74,9 @@ correlation. A feature with low variance doesn't have much predictive power and 
 
 **Design Choices**
 
-● So we started with SVM as our baseline and then we looked for other classifiers Which includes KNN, NN, LDA, QDA, Naive Bayes and Logistic regression.
-● We used accuracy as a evaluation metric to analyse the performance of different model.
-● We have used Grid Search method along with k- fold cross validation resampling technique to choose the best parameter from given set of parameters. The chosen parameters gives best performance on the dev set and hence these parameters were used to finally estimate the genre of test data.
+1. So we started with SVM as our baseline and then we looked for other classifiers Which includes KNN, NN, LDA, QDA, Naive Bayes and Logistic regression.
+2. We used accuracy as a evaluation metric to analyse the performance of different model.
+3. We have used Grid Search method along with k- fold cross validation resampling technique to choose the best parameter from given set of parameters. The chosen parameters gives best performance on the dev set and hence these parameters were used to finally estimate the genre of test data.
 
 **Result**
 
