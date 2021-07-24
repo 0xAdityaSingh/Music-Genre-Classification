@@ -19,6 +19,10 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has the above packages and more included. 
 
+### Report
+[IntrimReport](https://github.com/c9addy/Music-Genre-Classification/blob/main/IntrimReport.pdf)
+[Presentation](https://github.com/c9addy/Music-Genre-Classification/blob/main/Group36_presentation.pdf)
+
 ### Code
 
 Code is provided in the `AudioGenreClassifier.ipynb` notebook file.
