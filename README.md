@@ -21,6 +21,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Report
 [IntrimReport](https://github.com/c9addy/Music-Genre-Classification/blob/main/IntrimReport.pdf)
+
 [Presentation](https://github.com/c9addy/Music-Genre-Classification/blob/main/Group36_presentation.pdf)
 
 ### Code
